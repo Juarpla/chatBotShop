@@ -1,50 +1,60 @@
-# Welcome to your Expo app 👋
+# Overview 👀
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+ChatBot Shop is a React Native app that uses a cloud-based large language model to help users 
+search for products and get detailed information. It provides product details. Simply type 
+your query, and the chatbot will respond with product info.
 
-## Get started
+I created this app to enhance my skills as a software engineer by integrating AI-powered 
+tools into practical applications, improving user experiences in e-commerce.
 
-1. Install dependencies
+YouTube demonstration:
 
-   ```bash
-   npm install
-   ```
+[Employee Task Manager Demo Video](https://youtu.be)
 
-2. Start the app
+# Development Environment 🏔️
 
-   ```bash
-    npx expo start
-   ```
+To develop ChatBot Shop, I used React Native as the primary framework, ensuring a smooth 
+cross-platform experience for both iOS and Android devices. The development process was 
+supported by tools like Visual Studio Code for coding, Git for version control, and Expo 
+as a framework for react native. These tools streamlined development, making it easier 
+to build and debug features efficiently.
 
-In the output, you'll find options to open the app in a
+The app was built using JavaScript as the core programming language, leveraging the 
+flexibility of React Native. Key libraries came from Expo utilities tools, Axios for API integration 
+with the cloud-based LLM, and CSS for styling. These libraries provided essential functionality, 
+enabling the app to be responsive, robust, and easy to maintain.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+# Useful Websites 🎯
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+* [React Native Docs](https://reactnative.dev)
+* [Expo Docs](https://docs.expo.dev)
+* [Hugging face](https://huggingface.co/docs)
 
-## Get a fresh project
+# Future Work 🚨
 
-When you're ready, run:
+* Improve the integration with the LLM to provide more precise and context-aware responses 
+to user queries.
+* Introduce filtering and sorting options to allow users to browse products by categories 
+or features.
+* Refine the app's design and navigation for a more intuitive and visually appealing user 
+experience.
+* Implement robust error messages and fallback mechanisms for scenarios like API failures 
+or unsupported queries.
+* Add features to track user interactions and preferences to optimize chatbot responses 
+and app performance.
 
-```bash
-npm run reset-project
-```
+# App Preview 🔥
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### Interactive App Preview
+➡️ [App Preview](https://appetize.io)
 
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+<div style="display: flex; justify-content: space-between;">
+    <div style="text-align: center;">
+        <h3>Android Sequence Preview</h3>
+        <img src="https://i.giphy.com" alt="android"/>
+    </div>
+    <div style="text-align: center;">
+        <h3>iOS Sequence Preview</h3>
+        <img src="https://i.giphy.com" alt="ios"/>
+    </div>
+</div>
