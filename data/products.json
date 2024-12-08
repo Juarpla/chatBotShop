@@ -1,0 +1,122 @@
+[
+  {
+    "id":"1",
+    "name":"Milk",
+    "price":2.50,
+    "category":"Dairy",
+    "description":"Fresh whole milk from local farms",
+    "stock":50
+  },
+  {
+    "id":"2",
+    "name":"Bread",
+    "price":3.00,
+    "category":"Bakery",
+    "description":"Freshly baked whole wheat bread",
+    "stock":30
+  },
+  {
+    "id":"3",
+    "name":"Eggs",
+    "price":4.00,
+    "category":"Dairy",
+    "description":"Free-range organic eggs, dozen pack",
+    "stock":100
+  },
+  {
+    "id":"4",
+    "name":"Apples",
+    "price":1.20,
+    "category":"Produce",
+    "description":"Crisp and juicy red apples, per pound",
+    "stock":75
+  },
+  {
+    "id":"5",
+    "name":"Chicken Breast",
+    "price":7.50,
+    "category":"Meat",
+    "description":"Boneless, skinless chicken breast, per pound",
+    "stock":20
+  },
+  {
+    "id":"6",
+    "name":"Orange Juice",
+    "price":3.50,
+    "category":"Beverages",
+    "description":"100% pure squeezed orange juice, 1 liter",
+    "stock":40
+  },
+  {
+    "id":"7",
+    "name":"Pasta",
+    "price":2.00,
+    "category":"Pantry",
+    "description":"Premium durum wheat spaghetti, 500g",
+    "stock":60
+  },
+  {
+    "id":"8",
+    "name":"Cheddar Cheese",
+    "price":5.00,
+    "category":"Dairy",
+    "description":"Aged sharp cheddar cheese, 200g block",
+    "stock":25
+  },
+  {
+    "id":"9",
+    "name":"Tomatoes",
+    "price":2.30,
+    "category":"Produce",
+    "description":"Fresh vine-ripened tomatoes, per pound",
+    "stock":80
+  },
+  {
+    "id":"10",
+    "name":"Yogurt",
+    "price":1.50,
+    "category":"Dairy",
+    "description":"Creamy Greek yogurt, plain, 150g",
+    "stock":45
+  },
+  {
+    "id":"11",
+    "name":"Ground Coffee",
+    "price":8.00,
+    "category":"Beverages",
+    "description":"Rich and aromatic ground coffee, 500g",
+    "stock":15
+  },
+  {
+    "id":"12",
+    "name":"Butter",
+    "price":3.20,
+    "category":"Dairy",
+    "description":"Unsalted butter, 200g block",
+    "stock":50
+  },
+  {
+    "id":"13",
+    "name":"Carrots",
+    "price":1.00,
+    "category":"Produce",
+    "description":"Crunchy and sweet carrots, per pound",
+    "stock":70
+  },
+  {
+    "id":"14",
+    "name":"Chocolate Bar",
+    "price":2.50,
+    "category":"Snacks",
+    "description":"Dark chocolate with 70% cocoa, 100g",
+    "stock":100
+  },
+  {
+    "id":"15",
+    "name":"Rice",
+    "price":3.50,
+    "category":"Pantry",
+    "description":"Long-grain white rice, 1kg",
+    "stock":90
+  }
+]
