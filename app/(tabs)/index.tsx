@@ -6,6 +6,7 @@ import { ThemedText } from '@/components/ThemedText';
 import { ThemedView } from '@/components/ThemedView';
 import {IconSymbol} from "@/components/ui/IconSymbol";
 
+// Define the home screen with a parallax scroll view
 export default function HomeScreen() {
   return (
     <ParallaxScrollView

@@ -9,10 +9,12 @@ type Message = {
     sender: "user" | "gemini";
 };
 
+// Define the chat screen with a chat input and message list
 export default function ChatScreen() {
     const [msg, setMsg] = useState<string>("");
     const [messages, setMessages] = useState<Message[]>([]);
 
+    // Handle the send button click
     const handleButtonClick = async () => {
         if (!msg.trim()) return;
 
