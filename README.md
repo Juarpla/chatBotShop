@@ -9,7 +9,7 @@ tools into practical applications, improving user experiences in e-commerce.
 
 YouTube demonstration:
 
-[ChatbotShop Demo Video](https://youtu.be/-fb1IpmNgKM)
+[ChatbotShop Demo Video](https://youtu.be/OqAk9HFrboc)
 
 # Development Environment 🏔️
 
