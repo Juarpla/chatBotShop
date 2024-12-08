@@ -9,7 +9,7 @@ tools into practical applications, improving user experiences in e-commerce.
 
 YouTube demonstration:
 
-[Employee Task Manager Demo Video](https://youtu.be)
+[ChatbotShop Demo Video](https://youtu.be/-fb1IpmNgKM)
 
 # Development Environment 🏔️
 
